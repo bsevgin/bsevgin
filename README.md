@@ -37,7 +37,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=bsevgin&show_icons=true&theme=dracula&locale=en" alt="bsevgin" /></p>
 <br><br><br><br><br><br><br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bsevgin&theme=dark" alt="bsevgin" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bsevgin&theme=dark" alt="bsevgin" /></p>
+<br><br><br><br><br><br><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bsevgin&show_icons=true&theme=dracula&locale=en&layout=compact" alt="bsevgin" /></p>
 <br><br><br><br><br><br><br>
